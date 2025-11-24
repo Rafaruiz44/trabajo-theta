@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "Somebody to Love",
+    "rolesRequeridos": [
+      {"nombre": "voz principal"},
+      {"nombre": "guitarra eléctrica"},
+      {"nombre": "bajo"},
+      {"nombre": "batería"},
+      {"nombre": "piano"}
+    ]
+  },
+  {
+    "titulo": "We Will Rock You",
+    "rolesRequeridos": [
+      {"nombre": "voz principal"},
+      {"nombre": "guitarra eléctrica"},
+      {"nombre": "bajo"},
+      {"nombre": "batería"}
+    ]
+  },
+  {
+    "titulo": "These Are the Days of Our Lives",
+    "rolesRequeridos": [
+      {"nombre": "voz principal"},
+      {"nombre": "guitarra eléctrica"},
+      {"nombre": "bajo"},
+      {"nombre": "batería"}
+    ]
+  },
+  {
+    "titulo": "Under Pressure",
+    "rolesRequeridos": [
+      {"nombre": "voz principal"},
+      {"nombre": "voz principal"},
+      {"nombre": "voz principal"},
+      {"nombre": "voz principal"},
+      {"nombre": "voz principal"},
+      {"nombre": "voz principal"},
+      {"nombre": "guitarra eléctrica"},
+      {"nombre": "bajo"},
+      {"nombre": "batería"}
+    ]
+  }
+]
